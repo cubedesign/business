@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background:#f6f6f6;
+}
+content > div#container{
+    width:100%;
+    max-width: 1080px;
+    top:22px;
+    position: relative;
+    margin: 0 auto;
+    padding: 0 16px;
+}
